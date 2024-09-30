@@ -69,6 +69,8 @@ Citação do dia:
 ## Cronograma
 ![[Cronograma]]
 ## Monitoração e Controle
+![[Plano de Projeto]]
+
 
 
 

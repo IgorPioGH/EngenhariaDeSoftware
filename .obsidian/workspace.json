@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sumário/Engenharia de Software/Gerência de Projeto De Software/Planejamento de Projetos de Software/Cronograma.md",
+                "file": "Sumário/1.Sumário Engenharia de Software/Sumário Engenharia de Software.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sumário/Engenharia de Software/Gerência de Projeto De Software/Planejamento de Projetos de Software/Cronograma.md",
+                "file": "Sumário/1.Sumário Engenharia de Software/Sumário Engenharia de Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sumário/Engenharia de Software/Gerência de Projeto De Software/Planejamento de Projetos de Software/Cronograma.md",
+                "file": "Sumário/1.Sumário Engenharia de Software/Sumário Engenharia de Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sumário/Engenharia de Software/Gerência de Projeto De Software/Planejamento de Projetos de Software/Cronograma.md"
+                "file": "Sumário/1.Sumário Engenharia de Software/Sumário Engenharia de Software.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "9ef3dd68162bafde",
   "lastOpenFiles": [
+    "Sumário/Engenharia de Software/Gerência de Projeto De Software/Planejamento de Projetos de Software/Plano de Projeto.md",
+    "Sumário/Engenharia de Software/Gerência de Projeto De Software/Planejamento de Projetos de Software/Cronograma.md",
+    "README.md",
     "Pasted image 20240930143635.png",
     "Sumário/1.Sumário Engenharia de Software/Sumário Engenharia de Software.md",
-    "Sumário/Engenharia de Software/Gerência de Projeto De Software/Planejamento de Projetos de Software/Cronograma.md",
     "Sumário/Engenharia de Software/Gerência de Projeto De Software/Planejamento de Projetos de Software/Gerenciamento de Riscos.md",
     "análise de risco.md",
     "Sumário/Engenharia de Software/Gerência de Projeto De Software/Planejamento de Projetos de Software/Estimativas.md",
@@ -183,7 +185,6 @@
     "Sumário/Engenharia de Software/Modelos de Processo/Incrementais.md",
     "Pasted image 20240927091745.png",
     "Sumário/Engenharia de Software/Modelos de Processo",
-    "Sumário/Sistema/Sistema de computador.md",
     "Sumário/Engenharia de Software",
     "Pasted image 20240927075242.png",
     "Pasted image 20240927075353.png",
