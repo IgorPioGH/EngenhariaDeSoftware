@@ -56,7 +56,15 @@ Citação do dia:
 ![[Projeto de Software|Projeto]]
 
 # Planejamento de Projetos de Software
+- O *tempo* é o recurso mais importante
 - Realizado pela Gerência de projeto de Software
+- Passos do Planejamento de Projetos: (gastar esforço planejando para ser um bom projeto)
+	- Elaboração de Estimativas
+	- Análise de riscos
+	- Determinação de um Cronograma
+	- Tomadas de decisão relativas à aquisição
+	- Reengenharia
+	- Planejamento organizacional
 ## Escopo
 ![[Escopo do Software]]
 ## Métricas
@@ -69,10 +77,10 @@ Citação do dia:
 ## Cronograma
 ![[Cronograma]]
 ## Monitoração e Controle
-![[Plano de Projeto]]
-
-
-
-
-
-
+![[Monitoração e Controle]]
+## Aquisição de Software
+![[Aquisição de software]]
+## Reengenharia
+![[Reengenharia]]
+## Plano de Projeto
+![[Plano de Projeto de Software]]
