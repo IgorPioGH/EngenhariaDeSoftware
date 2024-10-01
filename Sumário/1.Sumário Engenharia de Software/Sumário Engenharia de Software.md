@@ -84,3 +84,11 @@ Citação do dia:
 ![[Reengenharia]]
 ## Plano de Projeto
 ![[Plano de Projeto de Software]]
+# Engenharia de Requisitos
+![[Engenharia de Requisitos]]
+## Estudo de Viabilidade
+![[Estudo de Viabilidade]]
+## Elicitação de Requisitos
+![[Elicitação de Requisitos]]
+## Especificação de Requisitos
+![[Especificação de Requisitos]]

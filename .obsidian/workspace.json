@@ -8,12 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c98b3436b9f34bc",
+            "id": "b1e86ab95c114da5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sumário/Engenharia de Software/Engenharia de Requisitos/Especificação de Requisitos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "92fe49b4dc4dafc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2448158d2e9d693",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Sumário/1.Sumário Engenharia de Software/Sumário Engenharia de Software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f4702390bb149e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sumário/Engenharia de Software/Engenharia de Requisitos/Estudo de Viabilidade.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 359.5
   },
   "right": {
     "id": "66cf60a0a049ed7d",
@@ -146,11 +176,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c98b3436b9f34bc",
+  "active": "b2448158d2e9d693",
   "lastOpenFiles": [
+    "Sumário/Engenharia de Software/Engenharia de Requisitos/Estudo de Viabilidade.md",
+    "Sumário/1.Sumário Engenharia de Software/Sumário Engenharia de Software.md",
+    "Sumário/Engenharia de Software/Engenharia de Requisitos/Engenharia de Requisitos.md",
+    "Sumário/Engenharia de Software/Engenharia de Requisitos/Especificação de Requisitos.md",
+    "Pasted image 20240930205854.png",
+    "Pasted image 20240930185546.png",
+    "Sumário/Engenharia de Software/Engenharia de Requisitos/Elicitação de Requisitos.md",
+    "Sumário/Engenharia de Software/Engenharia de Requisitos/Análise de Requisitos.md",
+    "Sumário/Engenharia de Software/Gerência de Projeto De Software/Gerência de Projeto de Software.md",
+    "Pasted image 20240930204341.png",
+    "Sumário/Engenharia de Software/Engenharia de Requisitos",
+    "Sumário/Engenharia de Software/Engenharia de Requisitos.md",
+    "Sumário/Engenharia de Software/Engenharia de Software.md",
+    "Sumário/Engenharia de Software/Gerência de Projeto De Software/Engenharia de Requisitos",
     "Sumário/Engenharia de Software/Gerência de Projeto De Software/Planejamento de Projetos de Software/Plano de Projeto de Software.md",
     "Pasted image 20240930174132.png",
-    "Sumário/1.Sumário Engenharia de Software/Sumário Engenharia de Software.md",
     "Sumário/Engenharia de Software/Gerência de Projeto De Software/Planejamento de Projetos de Software/Reengenharia.md",
     "Sumário/Engenharia de Software/Gerência de Projeto De Software/Planejamento de Projetos de Software/Aquisição de software.md",
     "Sumário/Engenharia de Software/Gerência de Projeto De Software/Planejamento de Projetos de Software/Monitoração e Controle.md",
@@ -162,35 +205,23 @@
     "Sumário/Engenharia de Software/Gerência de Projeto De Software/Planejamento de Projetos de Software/Estimativas.md",
     "Sumário/Engenharia de Software/Gerência de Projeto De Software/4 P's/Escopo do Software.md",
     "Sumário/Engenharia de Software/Modelos de Processo/Sequenciais.md",
-    "Sumário/Engenharia de Software/Gerência de Projeto De Software/Gerência de Projeto de Software.md",
     "Sumário/Software/Software.md",
     "Sumário/Engenharia de Software/Gerência de Projeto De Software/Métricas e Medidas de Software.md",
-    "Sumário/Engenharia de Software/Gerência de Projeto De Software/Untitled",
     "Sumário/Engenharia de Software/Gerência de Projeto De Software/4 P's/Pessoas.md",
     "Sumário/Engenharia de Software/Gerência de Projeto De Software/Planejamento de Projetos de Software",
     "Sumário/Engenharia de Software/Gerência de Projeto De Software/4 P's/Projeto de Software.md",
     "Sumário/Engenharia de Software/Gerência de Projeto De Software/4 P's",
     "Sumário/Engenharia de Software/Gerência de Projeto De Software/4 P's/Processo.md",
-    "Sumário/Engenharia de Software/Modelos de Processo/Evolucionários.md",
-    "Sumário/Engenharia de Software/Gerência de Projeto De Software/4 P's/Produto.md",
-    "Sumário/Engenharia de Software/Modelos de Processo/Desenvolvimento Ágil.md",
-    "Sumário/Engenharia de Software/Modelos de Processo/SCRUM.md",
     "Pasted image 20240927104116.png",
     "Pasted image 20240927080120.png",
-    "Sumário/Engenharia de Software/Engenharia de Software.md",
-    "Sumário/Engenharia de Software/Modelos de Processo/Modelos de Processo de Software.md",
     "Sumário/Engenharia de Software/Gerência de Projeto De Software",
-    "Sumário/Engenharia de Software/Processo de Software.md",
     "Pasted image 20240927104046.png",
     "Pasted image 20240927104049.png",
     "Pasted image 20240927091745.png",
     "Sumário/Engenharia de Software/Modelos de Processo",
     "Sumário/Engenharia de Software",
-    "Pasted image 20240927075242.png",
-    "Pasted image 20240927075353.png",
     "Sumário/Software",
     "Sumário/Sistema",
-    "Sumário/1.Sumário Engenharia de Software",
-    "Sumário"
+    "Sumário/1.Sumário Engenharia de Software"
   ]
 }

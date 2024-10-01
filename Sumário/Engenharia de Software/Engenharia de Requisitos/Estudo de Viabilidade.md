@@ -1,0 +1,25 @@
+## Estudo de Viabilidade
+- *Necessidade do mercado* / Sistema potencialmente novo
+	- Conjunto preliminar de requisitos de negócios
+	- Esboço da descrição do Sistema
+	- Esboço de como o sistema pretende apoiar os processos de negócios do cliente
+- *Pessoal envolvido*
+	- Gerentes de departamento onde o sistema será usado
+	- Pessoal de marketing
+	- Engenheiros de Software familiarizados com o tipo de sistema proposto
+	- Especialistas em tecnologia
+	- Usuários finais do sistema
+- *Questões usuais*
+	- Cliente? (Quem está por trás deste trabalho)
+	- Usuário final? (Quem vai utilizar a aplicação)
+	- Quais problemas com os processos atuais e como a nova solução ajudaria a resolver esses problemas?
+	- Como a organização se comportaria se a solução não fosse implementada?
+	- A solução deve ser implementada com a tecnologia atual e dentro de alguma restrição de custo e tempo?
+	- A solução deve ser integrada a sistemas já implementados?
+	- Alguém mais pode fornecer informações adicionais?
+### Relatório de viabilidade
+- Resultado do *Estudo de Viabilidade*
+- Relatório que recomenda (ou não) prosseguir com os processos de *Engenharia de Requisitos* e *Desenvolvimento de Sistema*
+	- Viabilidade Econômica
+	- Viabilidade Tecnológica (Tecnologia atual)
+	- Viabilidade Técnica (Capacidade atual da equipe)
