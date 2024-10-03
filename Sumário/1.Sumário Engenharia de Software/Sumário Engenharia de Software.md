@@ -8,8 +8,6 @@ Citação do dia:
 # Sistema
 ![[Sistema de computador]]
 
-
-
 # Software
 ![[Software]]
 
@@ -92,3 +90,5 @@ Citação do dia:
 ![[Elicitação de Requisitos]]
 ## Especificação de Requisitos
 ![[Especificação de Requisitos]]
+## Segundo Pressman
+![[Engenharia de Requisitos - Pressman]]
