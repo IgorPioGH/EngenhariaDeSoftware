@@ -9,7 +9,7 @@
 	- Engenheiros de Software familiarizados com o tipo de sistema proposto
 	- Especialistas em tecnologia
 	- Usuários finais do sistema
-- *Questões usuais*
+- *Questões usuais* $\to$ Stakeholders
 	- Cliente? (Quem está por trás deste trabalho)
 	- Usuário final? (Quem vai utilizar a aplicação)
 	- Quais problemas com os processos atuais e como a nova solução ajudaria a resolver esses problemas?

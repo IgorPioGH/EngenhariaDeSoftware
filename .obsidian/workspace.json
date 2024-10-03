@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sumário/Engenharia de Software/Engenharia de Requisitos/Pressman/Engenharia de Requisitos - Pressman.md",
+                "file": "Sumário/1.Sumário Engenharia de Software/Sumário Engenharia de Software.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sumário/Engenharia de Software/Engenharia de Requisitos/Pressman/Engenharia de Requisitos - Pressman.md",
+                "file": "Sumário/1.Sumário Engenharia de Software/Sumário Engenharia de Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sumário/Engenharia de Software/Engenharia de Requisitos/Pressman/Engenharia de Requisitos - Pressman.md",
+                "file": "Sumário/1.Sumário Engenharia de Software/Sumário Engenharia de Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sumário/Engenharia de Software/Engenharia de Requisitos/Pressman/Engenharia de Requisitos - Pressman.md"
+                "file": "Sumário/1.Sumário Engenharia de Software/Sumário Engenharia de Software.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "71620d03f34ed2b0",
   "lastOpenFiles": [
-    "Sumário/Engenharia de Software/Engenharia de Requisitos/Pressman/Resumo.md",
+    "Sumário/Engenharia de Software/Engenharia de Requisitos/Estudo de Viabilidade.md",
+    "Sumário/Engenharia de Software/Engenharia de Requisitos/Engenharia de Requisitos.md",
+    "Sumário/Engenharia de Software/Engenharia de Requisitos/Elicitação de Requisitos.md",
     "Sumário/Engenharia de Software/Engenharia de Requisitos/Pressman/Engenharia de Requisitos - Pressman.md",
+    "Sumário/Engenharia de Software/Engenharia de Requisitos/Pressman/Resumo.md",
     "Sumário/Engenharia de Software/Engenharia de Requisitos/Pressman/Revisão ou Validação.md",
     "Sumário/Engenharia de Software/Engenharia de Requisitos/Pressman/Especificação.md",
     "Sumário/Engenharia de Software/Engenharia de Requisitos/Pressman/Negociação.md",
@@ -159,10 +162,7 @@
     "Sumário/Engenharia de Software/Engenharia de Requisitos/Pressman/Requisitos de Usuário x Requisitos de Sitema.md",
     "Sumário/1.Sumário Engenharia de Software/Sumário Engenharia de Software.md",
     "Sumário/Engenharia de Software/Engenharia de Requisitos/Pressman/Concepção.md",
-    "Sumário/Engenharia de Software/Engenharia de Requisitos/Engenharia de Requisitos.md",
     "Sumário/Engenharia de Software/Engenharia de Requisitos/Especificação de Requisitos.md",
-    "Sumário/Engenharia de Software/Engenharia de Requisitos/Elicitação de Requisitos.md",
-    "Sumário/Engenharia de Software/Engenharia de Requisitos/Estudo de Viabilidade.md",
     "Pasted image 20241002104750.png",
     "Sumário/Engenharia de Software/Engenharia de Requisitos/Pressman",
     "Sumário/Engenharia de Software/Modelos de Processo/Sequenciais.md",

@@ -8,3 +8,12 @@ Realizada em paralelo com o planejamento de Software, pois fornece informações
 - *"É o processo de estabelecer os requisitos que o cliente requer a partir do sistema e as limitações sob as quais ele opera e é desenvolvido"*
 ## Sommerville
 ![[Pasted image 20240930185546.png]]
+### Estudo de viabilidade
+![[Estudo de Viabilidade]]
+
+### Elicitação de Requisitos
+![[Elicitação de Requisitos]]
+### Especificação de Requisitos
+![[Especificação de Requisitos]]
+# Pressman
+![[Engenharia de Requisitos - Pressman]]
